@@ -1,4 +1,3 @@
-# Modelo Ridge
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -11,7 +10,7 @@ import pathlib
 
 RANDOM_SEED = 42
 
-DATA_DIR = pathlib.Path.cwd().parent / 'data'
+DATA_DIR = pathlib.Path.cwd().parent/ 'AmesML' / 'data'
 clean_data_path = DATA_DIR / 'processed' / 'ames_clean.pkl'
 with open(clean_data_path, 'rb') as file:
     data = pickle.load(file)

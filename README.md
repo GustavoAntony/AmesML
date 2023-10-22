@@ -1,4 +1,10 @@
 # AmesML
+Erik Leonardo Soares de Oliveira
+Gustavo Antony de Assis
+
+O projeto foi desenvolvido e continuado a partir do notebook 2, no qual realizamos novas features enigineering, e também no notebook 3 onde fizemos novos modelos e os aperfeiçoamos com o uso de GridSearchCV, além de fazermos comparativos entre eles buscando o melhor modelo. Mais detalhes do projeto e passos realizados é possível ser observado ao decorrer dos notebooks nas células de markdown.
+
+É possível encontrar os notebooks no diretório "notebooks", e os arquivos referentes à api no diretório "api".
 
 ## API
 

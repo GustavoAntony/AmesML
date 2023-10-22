@@ -1,7 +1,0 @@
-MS.Zoning = categorias com pouca expressão
-Land.Contour = categorias com pouca expressão
-Lot.Config = categorias com pouca expressão
-Bldg.Type = categorias com pouca expressão
-House.Style = categorias com pouca expressão
-Garage.Type = categorias com pouca expressão
-Sale.Condition = categorias com pouca expressão
